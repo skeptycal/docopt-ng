@@ -1,4 +1,8 @@
 *.py[co]
+**/*bak*
+**/*private*
+.pre-commit-config.yaml
+
 
 # Vim
 *.swp
