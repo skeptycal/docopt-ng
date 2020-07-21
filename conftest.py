@@ -3,12 +3,11 @@ import re
 try:
     import json
 except ImportError:
-    import simplejson as json
+    import simplejson as json # NOQA
 
 import pytest
 
 import docopt
-
 
 pt_version_under_54 = float('.'.join(pytest.__version__.split('.')[0:2])) < 5.4
 
