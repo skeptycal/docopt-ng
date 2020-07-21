@@ -1,3 +1,7 @@
+[build-system]
+# Minimum requirements for the build system to execute.
+requires = ['setuptools', 'wheel', 'poetry>=0.12']  # PEP 508 specifications.
+
 [tool.poetry]
 name = 'docopt-ng'
 version = '0.7.2'
@@ -19,7 +23,3 @@ pytest-mypy = '^0.6.2'
 codecov = '^2.1.8'
 wheel = '^0.34.2'
 setuptools = '^49.2.0'
-
-[build-system]
-requires = ['setuptools', 'wheel', 'poetry>=0.12']
-build-backend = 'poetry.masonry.api'
