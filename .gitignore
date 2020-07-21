@@ -1,7 +1,16 @@
 *.py[co]
 **/*bak*
 **/*private*
+
+# IDE and CI files
+.coverage
 .pre-commit-config.yaml
+**/__pycache__
+**/.mypy_cache
+**/.tox
+**/.vscode
+**/venv
+coverage.xml
 
 
 # Vim
