@@ -1,4 +1,4 @@
-"""Docopt is a Pythonic command-line interface parser that will make you smile.
+"""
 
 Now: with levenshtein based spellcheck, flag extension (de-abbreviation), and capitalization fixes.
 (but only when unambiguous)
@@ -12,13 +12,14 @@ Contributors (roughly in chronological order):
  * Copyright (c) 2012 Andrew Sutton <met48@met48.com>
  * Copyright (c) 2012 Andrew Sutton <met48@met48.com>
  * Copyright (c) 2012 Nima Johari <nimajohari@gmail.com>
- * Copyright (c) 2012-2013 Vladimir Keleshev, vladimir@keleshev.com
+ * Copyright (c) 2012-2013 Vladimir Keleshev <vladimir@keleshev.com>
  * Copyright (c) 2014-2018 Matt Boersma <matt@sprout.org>
  * Copyright (c) 2016 amir <ladsgroup@gmail.com>
  * Copyright (c) 2015 Benjamin Bach <benjaoming@gmail.com>
  * Copyright (c) 2017 Oleg Bulkin <o.bulkin@gmail.com>
  * Copyright (c) 2018 Iain Barnett <iainspeed@gmail.com>
- * Copyright (c) 2019 itdaniher, itdaniher@gmail.com
+ * Copyright (c) 2019 itdaniher, <itdaniher@gmail.com>
+ * Copyright (c) 2020 Michael Treanor, <skeptycal@gmail.com>
 
 """
 
